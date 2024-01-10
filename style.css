@@ -149,14 +149,14 @@
 
 /* Edit Task */
 .input-txt {
-  display:none;
+  display: none;
 }
 
 .main-block__item .input-txt {
-  display:inline-block;
-  width:224px;
+  display: inline-block;
+  width: 224px;
 }
 
 .main-block__item .main-block__label {
-  display:none;
+  display: none;
 }
